@@ -1,0 +1,40 @@
+GET http://localhost:8080/Assignment_war_exploded/search?title=bronx&format=json&title=bronx
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-23T125453.200.html
+
+###
+
+GET http://localhost:8080/Assignment_war_exploded/search?title=bronx
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-23T125436.200.html
+
+###
+
+GET http://localhost:8080/Assignment_war_exploded/search
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-23T125427.200.html
+
+###
+
+GET http://localhost:8080/Assignment_war_exploded/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-23T125404.200.html
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-19T122402.404.html
+
+###
+

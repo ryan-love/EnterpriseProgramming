@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="db2jcc4-4.23.42">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.DataGrip2019.3/config/jdbc-drivers/DB2/4.23.42/db2jcc4-4.23.42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

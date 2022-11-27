@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gt-jdbc-2.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gt-jdbc-2.6.1.jar/gt-jdbc-2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

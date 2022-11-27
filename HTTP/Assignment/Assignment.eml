@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Assignment"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="Tomcat 9.0.30" scope="PROVIDED"/>
+	<lib name="servlet-api" scope="PROVIDED"/>
+	<lib name="gson-2.8.5.jar" scope="PROVIDED"/>
+	<lib name="mysql.jar" scope="PROVIDED"/>
+	<lib name="jsp-api.jar" scope="PROVIDED"/>
+	<lib name="jsp-api" scope="PROVIDED"/>
+	<lib name="taglibs-standard-impl-1.2.5" scope="PROVIDED"/>
+	<lib name="taglibs-standard-jstlel-1.2.5.jar" scope="PROVIDED"/>
+	<lib name="taglibs-standard-jstlel-1.2.5" scope="PROVIDED"/>
+	<lib name="taglibs-standard-spec-1.2.5.jar" scope="PROVIDED"/>
+	<lib name="taglibs-standard-spec-1.2.5" scope="PROVIDED"/>
+	<lib name="Java EE 6-Java EE 6" scope="PROVIDED"/>
+	<lib name="Google App Engine Standard Local Server9" scope="PROVIDED"/>
+	<lib name="HikariCP-3.4.1" scope="PROVIDED"/>
+	<lib name="slf4j-api-1.7.9" scope="PROVIDED"/>
+	<lib name="mysql-connector-java-5.1.38" scope="PROVIDED"/>
+	<lib name="jcc-11.5.0.01" scope="PROVIDED"/>
+	<lib name="db2jcc4-4.23.42" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 9.0.30" value="application_server_libraries"/>
+		<level name="servlet-api" value="project"/>
+		<level name="jsp-api" value="project"/>
+		<level name="taglibs-standard-impl-1.2.5" value="project"/>
+		<level name="taglibs-standard-spec-1.2.5" value="project"/>
+		<level name="Java EE 6-Java EE 6" value="project"/>
+		<level name="Google App Engine Standard Local Server9" value="application_server_libraries"/>
+		<level name="Maven: javax.servlet:jstl:1.2" value="project"/>
+		<level name="Maven: javax.servlet:servlet-api:2.5" value="project"/>
+		<level name="Maven: com.google.appengine:appengine-api-1.0-sdk:Release" value="project"/>
+		<level name="Maven: com.google.endpoints:endpoints-framework:Release" value="project"/>
+		<level name="Maven: com.googlecode.objectify:objectify:5.1.22" value="project"/>
+		<level name="HikariCP-3.4.1" value="project"/>
+		<level name="mysql-connector-java-5.1.38" value="project"/>
+		<level name="db2jcc4-4.23.42" value="project"/>
+		<level name="animal-sniffer-annotations-1.17" value="project"/>
+	</levels>
+</component>

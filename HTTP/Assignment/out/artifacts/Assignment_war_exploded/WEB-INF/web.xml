@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+    <servlet>
+
+
+        <servlet-name>listFilms</servlet-name>
+        <servlet-class>controller.listFilms</servlet-class>
+
+    </servlet>
+
+    <servlet>
+
+
+        <servlet-name>GUIShow</servlet-name>
+        <servlet-class>controller.GuiList</servlet-class>
+
+    </servlet>
+
+
+
+    <servlet>
+        <servlet-name>Servlet</servlet-name>
+        <servlet-class>model.Servlet</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>createFilms</servlet-name>
+        <servlet-class>controller.createFilms</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>FormFilms</servlet-name>
+        <servlet-class>controller.formFilm</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>editFilm</servlet-name>
+        <servlet-class>controller.editForm</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>updateFilm</servlet-name>
+        <servlet-class>controller.updateFilms</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>deleteFilm</servlet-name>
+        <servlet-class>controller.deleteFilms</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>searchFilm</servlet-name>
+        <servlet-class>controller.searchFilm</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Servlet</servlet-name>
+        <url-pattern>/Servlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>listFilms</servlet-name>
+        <url-pattern>/Film</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>FormFilms</servlet-name>
+        <url-pattern>/show</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>createFilms</servlet-name>
+        <url-pattern>/create</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>editFilm</servlet-name>
+        <url-pattern>/edit</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet-mapping>
+        <servlet-name>updateFilm</servlet-name>
+        <url-pattern>/update</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>deleteFilm</servlet-name>
+        <url-pattern>/delete</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>searchFilm</servlet-name>
+        <url-pattern>/search</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>GUIShow</servlet-name>
+        <url-pattern>/GUI</url-pattern>
+    </servlet-mapping>
+
+
+
+
+
+</web-app>

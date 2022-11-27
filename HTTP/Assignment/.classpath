@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Tomcat 9.0.30"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/Assignment/src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/servlet-api"/>
+	<classpathentry exported="true" kind="var" path="USER_HOME/Downloads/labFiles/labFiles/labFiles/gson-2.8.5.jar"/>
+	<classpathentry exported="true" kind="var" path="USER_HOME/Downloads/labFiles/labFiles/labFiles/mysql.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files (x86)/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jsp-api"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/taglibs-standard-impl-1.2.5"/>
+	<classpathentry kind="var" path="USER_HOME/Downloads/taglibs-standard-jstlel-1.2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/taglibs-standard-jstlel-1.2.5"/>
+	<classpathentry kind="var" path="USER_HOME/Downloads/taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/taglibs-standard-spec-1.2.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Java EE 6-Java EE 6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Google App Engine Standard Local Server9"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: javax.servlet:jstl:1.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: javax.servlet:servlet-api:2.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: com.google.appengine:appengine-api-1.0-sdk:Release"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: com.google.endpoints:endpoints-framework:Release"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Maven: com.googlecode.objectify:objectify:5.1.22"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/HikariCP-3.4.1"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/slf4j-api-1.7.9"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/mysql-connector-java-5.1.38"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/jcc-11.5.0.01"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/db2jcc4-4.23.42"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/animal-sniffer-annotations-1.17"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

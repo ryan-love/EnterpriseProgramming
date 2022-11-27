@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="HikariCP-3.4.1">
+    <archive path="C:/Users/Ryan Love/Downloads/HikariCP-3.4.1.jar" />
+  </library>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="C:/Users/Ryan Love/IdeaProjects/Assignment/lib/javax.persistence.jar" />
+    <archive path="C:/Users/Ryan Love/IdeaProjects/Assignment/lib/javax.annotation.jar" />
+    <archive path="C:/Users/Ryan Love/IdeaProjects/Assignment/lib/javax.transaction.jar" />
+    <archive path="C:/Users/Ryan Love/IdeaProjects/Assignment/lib/javax.jms.jar" />
+    <archive path="C:/Users/Ryan Love/IdeaProjects/Assignment/lib/javax.resource.jar" />
+    <archive path="C:/Users/Ryan Love/IdeaProjects/Assignment/lib/javax.ejb.jar" />
+  </library>
+  <library name="Maven: com.google.appengine:appengine-api-1.0-sdk:Release">
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/appengine/appengine-api-1.0-sdk/1.9.77/appengine-api-1.0-sdk-1.9.77.jar" />
+  </library>
+  <library name="Maven: com.google.endpoints:endpoints-framework:Release">
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/endpoints/endpoints-framework/2.2.1/endpoints-framework-2.2.1.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/guava/guava/20.0/guava-20.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.6/jackson-annotations-2.9.6.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/appengine/appengine-api-1.0-sdk/1.9.60/appengine-api-1.0-sdk-1.9.60.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/flogger/flogger/0.3.1/flogger-0.3.1.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/http-client/google-http-client-jackson2/1.25.0/google-http-client-jackson2-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/http-client/google-http-client/1.25.0/google-http-client-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/api-client/google-api-client/1.25.0/google-api-client-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/oauth-client/google-oauth-client/1.25.0/google-oauth-client-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/api-client/google-api-client-appengine/1.25.0/google-api-client-appengine-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/oauth-client/google-oauth-client-appengine/1.25.0/google-oauth-client-appengine-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/oauth-client/google-oauth-client-servlet/1.25.0/google-oauth-client-servlet-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/http-client/google-http-client-jdo/1.25.0/google-http-client-jdo-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/api-client/google-api-client-servlet/1.25.0/google-api-client-servlet-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/javax/jdo/jdo2-api/2.3-eb/jdo2-api-2.3-eb.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/javax/transaction/transaction-api/1.1/transaction-api-1.1.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/http-client/google-http-client-appengine/1.25.0/google-http-client-appengine-1.25.0.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/commons-fileupload/commons-fileupload/1.3.3/commons-fileupload-1.3.3.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/io/swagger/swagger-models/1.5.9/swagger-models-1.5.9.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/org/slf4j/slf4j-api/1.6.3/slf4j-api-1.6.3.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/io/swagger/swagger-annotations/1.5.9/swagger-annotations-1.5.9.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/io/swagger/swagger-core/1.5.9/swagger-core-1.5.9.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-joda/2.4.5/jackson-datatype-joda-2.4.5.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/joda-time/joda-time/2.2/joda-time-2.2.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.4.5/jackson-dataformat-yaml-2.4.5.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/org/yaml/snakeyaml/1.12/snakeyaml-1.12.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/org/slf4j/slf4j-nop/1.7.21/slf4j-nop-1.7.21.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/flogger/flogger-system-backend/0.3.1/flogger-system-backend-0.3.1.jar" />
+  </library>
+  <library name="Maven: com.googlecode.objectify:objectify:5.1.22">
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/googlecode/objectify/objectify/5.1.22/objectify-5.1.22.jar" />
+    <archive path="C:/Users/Ryan Love/.m2/repository/com/google/guava/guava/20.0/guava-20.0.jar" />
+  </library>
+  <library name="Maven: javax.servlet:jstl:1.2">
+    <archive path="C:/Users/Ryan Love/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar" />
+  </library>
+  <library name="Maven: javax.servlet:servlet-api:2.5">
+    <archive path="C:/Users/Ryan Love/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" />
+  </library>
+  <library name="google-cloud-datastore-1.102.0">
+    <archive path="C:/Users/Ryan Love/Downloads/google-cloud-datastore-1.102.0.jar" />
+  </library>
+  <library name="jsp-api">
+    <archive path="C:/Program Files (x86)/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar" />
+  </library>
+  <library name="mysql-connector-java-5.1.38">
+    <archive path="C:/Users/Ryan Love/Downloads/mysql-connector-java-5.1.38.jar" />
+  </library>
+  <library name="servlet-api">
+    <archive path="C:/Program Files (x86)/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/labFiles/labFiles/labFiles/gson-2.8.5.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/labFiles/labFiles/labFiles/mysql.jar" />
+  </library>
+  <library name="taglibs-standard-impl-1.2.5">
+    <archive path="C:/Users/Ryan Love/Downloads/taglibs-standard-impl-1.2.5.jar" />
+  </library>
+  <library name="taglibs-standard-spec-1.2.5">
+    <archive path="C:/Users/Ryan Love/Downloads/taglibs-standard-spec-1.2.5.jar" />
+  </library>
+  <library name="db2jcc4-4.23.42">
+    <archive path="C:/Users/Ryan Love/.DataGrip2019.3/config/jdbc-drivers/DB2/4.23.42/db2jcc4-4.23.42.jar" />
+  </library>
+  <library name="gt-jdbc-2.6.1">
+    <archive path="C:/Users/Ryan Love/Downloads/gt-jdbc-2.6.1.jar/gt-jdbc-2.6.1.jar" />
+  </library>
+  <library name="animal-sniffer-annotations-1.17">
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/animal-sniffer-annotations-1.17.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/asm-7.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/asm-analysis-7.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/asm-commons-7.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/asm-tree-7.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/asm-util-7.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/auto-value-annotations-1.6.6.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/checker-compat-qual-2.5.5.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/commons-codec-1.11.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/commons-logging-1.2.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/error_prone_annotations-2.3.2.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/failureaccess-1.0.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/google-api-client-1.30.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/google-api-services-sqladmin-v1beta4-rev20190607-1.30.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/google-auth-library-credentials-0.17.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/google-auth-library-oauth2-http-0.17.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/google-http-client-1.31.0.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/google-http-client-jackson2-1.31.0.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/google-oauth-client-1.30.1.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/grpc-context-1.19.0.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/guava-28.0-android.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/httpclient-4.5.9.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/httpcore-4.4.11.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/j2objc-annotations-1.3.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jackson-core-2.9.9.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jdbc-socket-factory-core-1.0.15.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jffi-1.2.19-native.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jffi-1.2.19.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jnr-a64asm-1.0.0.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jnr-constants-0.9.12.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jnr-enxio-0.21.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jnr-ffi-2.1.10.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jnr-posix-3.0.50.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jnr-unixsocket-0.23.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jnr-x86asm-1.0.2.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/jsr305-3.0.2.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/mysql-socket-factory-1.0.15.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/opencensus-api-0.21.0.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (5)/opencensus-contrib-http-util-0.21.0.jar" />
+  </library>
+  <library name="db2jcc-db2jcc4">
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files/db2jcc-db2jcc4.jar" />
+  </library>
+  <library name="db2jcc4">
+    <archive path="C:/Users/Ryan Love/Downloads/db2jcc4.jar" />
+  </library>
+  <library name="db2jcc4-4.23.42">
+    <archive path="C:/Users/Ryan Love/.DataGrip2019.3/config/jdbc-drivers/DB2/4.23.42/db2jcc4-4.23.42.jar" />
+  </library>
+  <library name="jcc-11.5.0.0">
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (1)/jcc-11.5.0.0.jar" />
+  </library>
+  <library name="servlet-api">
+    <archive path="C:/Program Files (x86)/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar" />
+    <archive path="C:/Program Files (x86)/Apache Software Foundation/Tomcat 9.0/lib/jsp-api.jar" />
+  </library>
+  <library name="slf4j-api-1.7.9">
+    <archive path="C:/Users/Ryan Love/Downloads/slf4j-api-1.7.9.jar" />
+  </library>
+  <library name="taglibs-standard-jstlel-1.2.5">
+    <archive path="C:/Users/Ryan Love/Downloads/taglibs-standard-jstlel-1.2.5.jar" />
+    <archive path="C:/Users/Ryan Love/Downloads/taglibs-standard-spec-1.2.5.jar" />
+  </library>
+  <library name="jcc-11.5.0.01">
+    <archive path="C:/Users/Ryan Love/Downloads/jar_files (1)/jcc-11.5.0.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

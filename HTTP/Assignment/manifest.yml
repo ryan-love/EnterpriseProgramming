@@ -1,0 +1,8 @@
+---  
+applications:
+   - name: GetStartedJava
+     random-route: true
+     path: web/WEB-INF
+     memory: 128M
+     instances: 1
+
